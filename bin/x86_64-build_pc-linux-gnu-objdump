@@ -1,0 +1,2 @@
+#!/bin/bash
+exec '/home/compute.kvant/dwn/crosstool-ng/.build/tools/bin/objdump' "${@}"

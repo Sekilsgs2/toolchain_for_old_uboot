@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/home/compute.kvant/dwn/crosstool-ng/.build/arm-unknown-eabi/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=x86_64-build_pc-linux-gnu --target=arm-unknown-eabi --prefix=/home/compute.kvant/dwn/crosstool-ng/.build/arm-unknown-eabi/buildtools --with-local-prefix=/home/compute.kvant/x-tools/arm-unknown-eabi/arm-unknown-eabi --without-headers --with-newlib --enable-threads=no --disable-shared --with-float=soft --with-pkgversion='crosstool-NG 1.23.0.580-eb72b4e' --enable-__cxa_atexit --disable-libgomp --disable-libmudflap --disable-libmpx --disable-libssp --disable-libquadmath --disable-libquadmath-support --with-gmp=/home/compute.kvant/dwn/crosstool-ng/.build/arm-unknown-eabi/buildtools --with-mpfr=/home/compute.kvant/dwn/crosstool-ng/.build/arm-unknown-eabi/buildtools --with-mpc=/home/compute.kvant/dwn/crosstool-ng/.build/arm-unknown-eabi/buildtools --with-isl=/home/compute.kvant/dwn/crosstool-ng/.build/arm-unknown-eabi/buildtools --with-cloog=/home/compute.kvant/dwn/crosstool-ng/.build/arm-unknown-eabi/buildtools --enable-lto --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --enable-target-optspace --with-libintl-prefix=/home/compute.kvant/dwn/crosstool-ng/.build/arm-unknown-eabi/buildtools --disable-multilib --enable-languages=c";
+static const char thread_model[] = "single";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "float", "soft" } };
